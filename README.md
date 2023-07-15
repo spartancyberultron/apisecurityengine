@@ -21,3 +21,5 @@ Overall, our API security solutions are designed to provide comprehensive protec
 [APIs Under Siege: The Latest OWASP Security Attacks of 2023](https://github.com/spartancyberultron/apisecurityengine/blob/main/APIs%20Under%20Siege%20The%20Latest%20OWASP%20Security%20Attacks%20of%202023.pdf)
 
 [Securing the AI Frontier: Navigating the API Landscape](https://github.com/spartancyberultron/apisecurityengine/blob/main/Securing%20the%20AI%20Frontier%20Navigating%20the%20API%20Landscape.pdf)
+
+[API Security Testing Don't Let Your Guard Down](https://github.com/spartancyberultron/apisecurityengine/blob/main/API%20Security%20Testing%20Don't%20Let%20Your%20Guard%20Down.pdf)
