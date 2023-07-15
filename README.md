@@ -23,3 +23,39 @@ Overall, our API security solutions are designed to provide comprehensive protec
 [Securing the AI Frontier: Navigating the API Landscape](https://github.com/spartancyberultron/apisecurityengine/blob/main/Securing%20the%20AI%20Frontier%20Navigating%20the%20API%20Landscape.pdf)
 
 [API Security Testing Don't Let Your Guard Down](https://github.com/spartancyberultron/apisecurityengine/blob/main/API%20Security%20Testing%20Don't%20Let%20Your%20Guard%20Down.pdf)
+
+
+## Cloud API Security Resources from Internet
+
+## Amazon API Gateway Security
+
+![App Screenshot](https://github.com/goyalvartul/code/blob/main/Security%20Overview%20of%20Amazon%20API%20Gateway.png)
+
+## Azure API Management Security
+
+![App Screenshot](https://github.com/goyalvartul/code/blob/main/Security%20Overview%20of%20Azure%20API-Management.png)
+
+## Google Cloud API Security Using Apigee
+
+![App Screenshot](https://github.com/goyalvartul/code/blob/main/Security%20Overview%20of%20Google%20Cloud%20API%20Using%20Apigee.png)
+
+## Google Cloud API Security Using Comprehensive Web App and API Protection (WAAP)
+
+![App Screenshot](https://github.com/goyalvartul/code/blob/main/Security%20Overview%20of%20Google%20Cloud%20API%20Implement%20Comprehensive%20Web%20App%20and%20API%20Protection%20(WAAP).png)
+
+## Google Cloud API Security Using Cloud CDN for Caching
+
+![App Screenshot](https://github.com/goyalvartul/code/blob/main/Security%20Overview%20of%20Google%20Cloud%20API%20Using%20Cloud%20CDN%20for%20caching.png)
+
+## Google Cloud API Security Using Google Cloud Armor as a WAF Layer with Apigee
+
+![App Screenshot](https://github.com/goyalvartul/code/blob/main/Security%20Overview%20of%20Google%20Cloud%20API%20Using%20Google%20Cloud%20Armor%20as%20a%20WAF%20layer%20along%20with%20Apigee.png)
+
+## Kubernetes API Security - Source iximiuz
+
+![App Screenshot](https://github.com/goyalvartul/code/blob/main/Kubernetes-API-Security.png)
+  
+## NFT API Security
+
+![App Screenshot](https://github.com/goyalvartul/code/blob/main/NFT-API-Security.png)
+
