@@ -11,3 +11,7 @@ We also provide advanced bot management solutions that help protect your APIs fr
 Our team of experts has years of experience in API security and is dedicated to providing the highest level of protection for our clients. We work closely with our clients to understand their unique security needs and develop customized solutions to meet those needs.
 
 Overall, our API security solutions are designed to provide comprehensive protection against a wide range of threats, including OWASP TOP 10 attacks, DDoS attacks, and bot management attacks. With our advanced technology and experienced team, you can rest assured that your APIs are protected from even the most sophisticated attacks.
+
+## Reference Material from APISecurityEngine Product Slides
+
+[API Security Revolutionizing Internet](https://github.com/spartancyberultron/apisecurityengine/blob/main/API%20Security%20Revolutionizing%20Internet.pdf)
