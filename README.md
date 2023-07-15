@@ -14,6 +14,8 @@ Overall, our API security solutions are designed to provide comprehensive protec
 
 ## Reference Material from APISecurityEngine Product Slides
 
+[OWASP TOP API Attack 2023 - Security Misconfiguration](https://github.com/spartancyberultron/apisecurityengine/blob/main/OWASP%20TOP%20API%20Attack%202023%20-%20Security%20Misconfiguration.pdf)
+
 [OWASP TOP API Attack 2023 - Server Side Request Forgery](https://github.com/spartancyberultron/apisecurityengine/blob/main/OWASP%20TOP%20API%20Attack%202023%20-%20Server%20Side%20Request%20Forgery.pdf)
 
 [OWASP TOP API Attack 2023 - Broken Function Level Authorization](https://github.com/spartancyberultron/apisecurityengine/blob/main/OWASP%20TOP%20API%20Attack%202023%20-%20Broken%20Function%20Level%20Authorization.pdf)
