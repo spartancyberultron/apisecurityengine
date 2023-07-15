@@ -15,3 +15,5 @@ Overall, our API security solutions are designed to provide comprehensive protec
 ## Reference Material from APISecurityEngine Product Slides
 
 [API Security Revolutionizing Internet](https://github.com/spartancyberultron/apisecurityengine/blob/main/API%20Security%20Revolutionizing%20Internet.pdf)
+
+[Shielding Your APIs: A Cloudy Tale of Security](https://github.com/spartancyberultron/apisecurityengine/blob/main/Shielding%20Your%20APIs%20A%20Cloudy%20Tale%20of%20Security.pdf)
