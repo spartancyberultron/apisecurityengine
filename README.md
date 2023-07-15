@@ -14,6 +14,8 @@ Overall, our API security solutions are designed to provide comprehensive protec
 
 ## Reference Material from APISecurityEngine Product Slides
 
+[OWASP TOP API Attack 2023 - Improper Inventory Management](https://github.com/spartancyberultron/apisecurityengine/blob/main/OWASP%20TOP%20API%20Attack%202023%20-%20Improper%20Inventory%20Management.pdf)
+
 [OWASP TOP API Attack 2023 - Lack of Protection from Automated Threats](https://github.com/spartancyberultron/apisecurityengine/blob/main/OWASP%20TOP%20API%20Attack%202023%20-%20Lack%20of%20Protection%20from%20Automated%20Threats.pdf)
 
 [OWASP TOP API Attack 2023 - Security Misconfiguration](https://github.com/spartancyberultron/apisecurityengine/blob/main/OWASP%20TOP%20API%20Attack%202023%20-%20Security%20Misconfiguration.pdf)
