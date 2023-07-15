@@ -14,6 +14,8 @@ Overall, our API security solutions are designed to provide comprehensive protec
 
 ## Reference Material from APISecurityEngine Product Slides
 
+[OWASP TOP API Attack 2023 - Broken Object Property Level Authorization](https://github.com/spartancyberultron/apisecurityengine/blob/main/OWASP%20TOP%20API%20Attack%202023%20-%20Broken%20Object%20Property%20Level%20Authorization.pdf)
+
 [OWASP TOP API Attack 2023 - Broken Object Level Authorization](https://github.com/spartancyberultron/apisecurityengine/blob/main/OWASP%20TOP%20API%20Attack%202023%20-%20Broken%20Object%20Level%20Authorization.pdf)
 
 [OWASP TOP API Attack 2023 - Broken Authentication](https://github.com/spartancyberultron/apisecurityengine/blob/main/OWASP%20TOP%20API%20Attack%202023%20-%20Broken%20Authentication.pdf)
