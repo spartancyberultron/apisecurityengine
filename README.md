@@ -1,4 +1,4 @@
-[APISecurityEngine - Security API's Using Artificial Intelligence for Web2 | Web3 Protocols](https://apisecurityengine.com/)
+![image](https://github.com/spartancyberultron/apisecurityengine/assets/102803057/558ae6f0-f19d-4ac1-b5dd-4812af9c7e6f)[APISecurityEngine - Security API's Using Artificial Intelligence for Web2 | Web3 Protocols](https://apisecurityengine.com/)
 
 Our company APISecurityEngine is a cutting-edge technology firm specializing in providing comprehensive API security solutions in Web2 | Web3 that protects against OWASP TOP 10 attacks, as well as prevents DDoS and bot management attacks. We understand the critical importance of APIs in modern application development and the need for robust security measures to protect against vulnerabilities and threats in the cloud environment.
 
@@ -78,4 +78,11 @@ Overall, our API security solutions are designed to provide comprehensive protec
 ## NFT API Security
 
 ![App Screenshot](https://github.com/goyalvartul/code/blob/main/NFT-API-Security.png)
+
+## Signatures API Security Validation
+
+## JWT Token Signature Validation for API
+
+![App Screenshot](https://github.com/spartancyberultron/apisecurityengine/blob/main/JWT-Token-Security-MindMap.jpg)
+
 
