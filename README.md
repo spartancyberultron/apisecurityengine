@@ -1,5 +1,3 @@
-![image](https://github.com/spartancyberultron/apisecurityengine/assets/102803057/558ae6f0-f19d-4ac1-b5dd-4812af9c7e6f)[APISecurityEngine - Security API's Using Artificial Intelligence for Web2 | Web3 Protocols](https://apisecurityengine.com/)
-
 Our company APISecurityEngine is a cutting-edge technology firm specializing in providing comprehensive API security solutions in Web2 | Web3 that protects against OWASP TOP 10 attacks, as well as prevents DDoS and bot management attacks. We understand the critical importance of APIs in modern application development and the need for robust security measures to protect against vulnerabilities and threats in the cloud environment.
 
 Our API security solutions are designed to provide end-to-end protection for APIs, including authentication, access control, encryption, and threat detection and prevention. We use advanced machine learning algorithms to analyze traffic patterns and detect any anomalies that may indicate an attack. This allows us to take immediate action to prevent the attack from succeeding.
