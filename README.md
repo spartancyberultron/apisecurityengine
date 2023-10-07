@@ -48,6 +48,8 @@ Overall, our API security solutions are designed to provide comprehensive protec
 
 [OWASP Top 10 LLM 02 - Insecure Output Handling](https://github.com/spartancyberultron/apisecurityengine/blob/main/OWASP%20Top%2010%20LLM%2002%20-%20Insecure%20Output%20Handling.pdf)
 
+[OWASP Top 10 LLM 03 - Training Data Poisoning](https://github.com/spartancyberultron/apisecurityengine/blob/main/OWASP%20Top%2010%20LLM%2003%20-%20Training%20Data%20Poisoning.pdf)
+
 
 
 
