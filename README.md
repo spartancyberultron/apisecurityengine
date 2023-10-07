@@ -52,6 +52,26 @@ Overall, our API security solutions are designed to provide comprehensive protec
 
 [OWASP Top 10 LLM 04 - Model Denial of Service](https://github.com/spartancyberultron/apisecurityengine/blob/main/OWASP%20Top%2010%20LLM%2004%20-%20Model%20Denial%20of%20Service.pdf)
 
+[OWASP Top 10 LLM 05 - Supply Chain Vulnerabilities](https://github.com/spartancyberultron/apisecurityengine/blob/main/OWASP%20Top%2010%20LLM%2005%20-%20Supply%20Chain%20Vulnerabilities.pdf)
+
+[OWASP Top 10 LLM 06 - Sensitive Information Disclosure](https://github.com/spartancyberultron/apisecurityengine/blob/main/OWASP%20Top%2010%20LLM%2006%20-%20Sensitive%20Information%20Disclosure.pdf)
+
+[OWASP Top 10 LLM 07 - Insecure Plugin Design](https://github.com/spartancyberultron/apisecurityengine/blob/main/OWASP%20Top%2010%20LLM%2007%20-%20Insecure%20Plugin%20Design.pdf)
+
+[OWASP Top 10 LLM 08 - Excessive Agency](https://github.com/spartancyberultron/apisecurityengine/blob/main/OWASP%20Top%2010%20LLM%2008%20-%20Excessive%20Agency.pdf)
+
+[OWASP Top 10 LLM 09 - Overreliance](https://github.com/spartancyberultron/apisecurityengine/blob/main/OWASP%20Top%2010%20LLM%2009%20-%20Overreliance.pdf)
+
+[OWASP Top 10 LLM 10 - Model Theft](https://github.com/spartancyberultron/apisecurityengine/blob/main/OWASP%20Top%2010%20LLM%2010%20-%20Model%20Theft.pdf)
+
+
+
+
+
+
+
+
+
 
 
 
