@@ -50,6 +50,8 @@ Overall, our API security solutions are designed to provide comprehensive protec
 
 [OWASP Top 10 LLM 03 - Training Data Poisoning](https://github.com/spartancyberultron/apisecurityengine/blob/main/OWASP%20Top%2010%20LLM%2003%20-%20Training%20Data%20Poisoning.pdf)
 
+[OWASP Top 10 LLM 04 - Model Denial of Service](https://github.com/spartancyberultron/apisecurityengine/blob/main/OWASP%20Top%2010%20LLM%2004%20-%20Model%20Denial%20of%20Service.pdf)
+
 
 
 
