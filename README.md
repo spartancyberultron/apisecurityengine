@@ -44,6 +44,10 @@ Overall, our API security solutions are designed to provide comprehensive protec
 
 [API Security Testing Don't Let Your Guard Down](https://github.com/spartancyberultron/apisecurityengine/blob/main/API%20Security%20Testing%20Don't%20Let%20Your%20Guard%20Down.pdf)
 
+## GenerativeAI - LLM Models API Security Resources
+
+[OWASP Top 10 LLM 01 - Prompt Injection](https://github.com/spartancyberultron/apisecurityengine/blob/main/OWASP%20Top%2010%20LLM%2001%20-%20Prompt%20Injection.pdf)
+
 
 ## Cloud API Security Resources from Internet
 
